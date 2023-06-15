@@ -1,6 +1,6 @@
 # ULP
 
-Reading MPU6050 using ULP Coprocessor in ESP32. This uses HULP liberary from [here](https://github.com/boarchuz/HULP "here").
+Reading MPU6050 using ULP Coprocessor in ESP32. This uses HULP library from [here](https://github.com/boarchuz/HULP "here").
 
 ## Features
 
