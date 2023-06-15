@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "hulp_config.h": "c",
-        "hulp_macros.h": "c",
-        "gpio.h": "c"
-    }
-}
